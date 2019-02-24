@@ -9,7 +9,7 @@
   "homepage": "https://github.com/cartant/tslint-config",
   "keywords": [],
   "license": "MIT",
-  "main": "./index.js",
+  "main": "./tslint.json",
   "name": "@cartant/tslint-config",
   "optionalDependencies": {},
   "peerDependencies": {},
