@@ -1,0 +1,27 @@
+{
+    "author": "Nicholas Jamieson <nicholas@cartant.com>",
+    "bugs": {
+      "url": "https://github.com/cartant/tslint-config/issues"
+    },
+    "dependencies": {},
+    "description": "TSLint configuration",
+    "devDependencies": {},
+    "homepage": "https://github.com/cartant/tslint-config",
+    "keywords": [],
+    "license": "MIT",
+    "main": "./index.js",
+    "name": "@cartant/tslint-config",
+    "optionalDependencies": {},
+    "peerDependencies": {},
+    "private": false,
+    "publishConfig": {
+      "tag": "latest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/cartant/tslint-config.git"
+    },
+    "scripts": {},
+    "version": "0.0.0"
+  }
+  
