@@ -98,7 +98,7 @@
     "no-unnecessary-callback-wrapper": { "severity": "warning" },
     "no-unsafe-finally": { "severity": "error" },
     "no-unused-expression": { "severity": "error" },
-    "no-use-before-declare": { "severity": "error" },
+    "no-use-before-declare": { "severity": "off" },
     "no-var-keyword": { "severity": "error" },
     "no-var-requires": { "severity": "off" },
     "no-void-expression": {
