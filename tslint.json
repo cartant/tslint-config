@@ -95,7 +95,7 @@
     "no-string-literal": { "severity": "off" },
     "no-switch-case-fall-through": { "severity": "error" },
     "no-trailing-whitespace": { "severity": "error" },
-    "no-unnecessary-callback-wrapper": { "severity": "warning" },
+    "no-unnecessary-callback-wrapper": { "severity": "off" },
     "no-unsafe-finally": { "severity": "error" },
     "no-unused-expression": { "severity": "error" },
     "no-use-before-declare": { "severity": "off" },
